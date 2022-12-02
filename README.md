@@ -6,10 +6,10 @@
 
 <p>A proposta deste treinamento é explorar as funcionalidades do layout grid a partir do projeto do AluraCast.</p>
 
-<h2>:file_folder: AluraCast</h2> 
+<h2>:file_folder: O projeto</h2> 
 
 <div align="center">
-  <img width=100px src="./src/assets/img/alura-Cast_logo.svg">
+  <img width=200px src="./src/assets/img/alura-Cast_logo.svg">
 </div><br>
 
 <p>O AluraCast é um serviço digital fictício de podcasts do grupo Alura.</p>
@@ -20,7 +20,7 @@
   <img width=600px src="./src/assets/img/git-aluracast.gif">
 </div><br>
 
-<p>Além das media query também foi usada a função minmax para garantir um projeto mais responsivo.</p>
+<p>Além das media query também foi usada a função minmax para garantir uma plataforma mais responsiva.</p>
 
 <p>Outro tema abordado durante o treinamento foi como otimizar um projeto com o uso das variáveis.</p>
 
